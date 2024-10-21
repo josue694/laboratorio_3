@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\HOLA_MUNDO1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2004F24C-B2F5-42C3-B8BA-55319D139A5E}|HOLA_MUNDO1\\HOLA_MUNDO1.csproj|c:\\users\\user\\source\\repos\\hola_mundo1\\hola_mundo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2004F24C-B2F5-42C3-B8BA-55319D139A5E}|HOLA_MUNDO1\\HOLA_MUNDO1.csproj|solutionrelative:hola_mundo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HOLA_MUNDO1\\HOLA_MUNDO1\\Program.cs",
+              "RelativeDocumentMoniker": "HOLA_MUNDO1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HOLA_MUNDO1\\HOLA_MUNDO1\\Program.cs",
+              "RelativeToolTip": "HOLA_MUNDO1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:18:10.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
